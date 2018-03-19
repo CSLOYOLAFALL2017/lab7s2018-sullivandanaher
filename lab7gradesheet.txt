@@ -1,0 +1,28 @@
+Final grade: /50
+
+Points earned:
+
+[4] algorithm is correct 
+
+[1] states the purpose of the program first 
+[5] error checking - loop asks for file name, try/except
+[3] provided functions are the ones used in algorithm
+[2] functions are properly implemented
+[4] properly reads through the entire file, splitting apart each line
+
+[3] profit is calculated correctly for each movie
+[4] highest profit is found
+[4] highest profit and the name of the movie with that profit are output to use
+
+[4] each movie saved to output file, which is not the input file
+[3] output file has date, name, and profit for each movie, comma delimited
+
+[3] Code follows readability guidelines (whitespace, comments)
+[2] input and output follows good usability rules
+[1] intro comments 
+[2] function comments
+[2] runs without errors
+
+[2] reflection
+
+extra credit: outputs a list of movie with starting letter given by user
