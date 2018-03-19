@@ -15,7 +15,7 @@ Points earned:
 [4] highest profit and the name of the movie with that profit are output to use
 
 [4] each movie saved to output file, which is not the input file
-[3] output file has date, name, and profit for each movie, comma delimited
+[4] output file has date, name, and profit for each movie, comma delimited
 
 [3] Code follows readability guidelines (whitespace, comments)
 [2] input and output follows good usability rules
