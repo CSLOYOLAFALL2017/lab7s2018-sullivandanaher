@@ -1,0 +1,25 @@
+Programmers: Rebecca Danaher and Kaylee Sullivan
+
+Algorithm:
+1. First, we need to import os
+    a) Professor gave us two other files with data
+2. Our first function is called:
+    a) def checkFIle()
+    b) This allows us to check a file name, to make sure the user inputs a correct file name
+    c) We then need to use a while not
+    d) Also need to loop the function, if the user does not input the correct file name
+    e) Lastly, we need to return the file name
+3. The second function:
+    a) def maxProfit ()
+    b) This function will give us the max profit for what movie made the maximum profit
+    c) We need to open the file name for reading and for writing
+    d) We then need an input from the user : "Please enter the name of a file to write to: "
+    e) To calculate the profit:  profit = boxOffice - budget
+    f) If the file name is not found, we output to the user:
+        i) File does not exist
+4. Next, we need to call the main function
+    a) The function is:
+        i)  filename = checkFile()
+             maxProfit(filename)
+             wFile(filename)
+5. Lastly, we need to put main() at the bottom of our code
